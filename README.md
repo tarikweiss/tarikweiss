@@ -1,9 +1,8 @@
-<h1 style="text-align: center;">Hi 👋🏽, I'm Tarik 😊</h1>
-<hr>
+# Hi 👋🏽, I'm Tarik 😊
 
 ... and this is my little profile guide.
 
-<h3>Speaking computer</h3>
+## Speaking computer
 
 Programming is an almost lifetime passion of me, which I discovered with playing [Minecraft](https://minecraft.net).
 Everything started with the first little modifications in-game and led to my current job.
@@ -16,7 +15,7 @@ fluent working concepts and as I'm originated in Java, Kotlin works like a charm
 
 You may find some of my work in the Apple App Store.
 
-<h3>Music</h3>
+## Music
 
 Music is a must-have companion in my live. I have special interest in Techno music,
 but I also like House, Gabber and Classic. Producing is my passion, next to programming.
